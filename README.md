@@ -31,7 +31,8 @@ A dynamic and interactive **Shoe Shop** website built using **HTML, CSS, and Jav
 ## 📸 Screenshots
 
 > 📷 Homepage Preview:  
-> ![Homepage](./screenshots/Screenshot%202025-07-27%20192157.png)
+> ![Homepage](<img width="1884" height="861" alt="Screenshot 2025-07-27 192157" src="https://github.com/user-attachments/assets/c43151ef-e270-4906-b12f-7fe75e436297" />
+)
 
 ---
 
